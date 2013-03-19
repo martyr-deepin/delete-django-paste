@@ -1,3 +1,7 @@
+.. warning:: Not in active development; not functional with todays tools;
+             See https://github.com/bartTC/dpaste.de where this app is
+             integrated into a project which runs www.dpaste.de
+
 ==================================
 dpaste - code pastebin application
 ==================================
